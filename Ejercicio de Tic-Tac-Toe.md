@@ -52,3 +52,5 @@ La medida de rendimiento se puede basar en la cantidad de partidas ganadas en co
    
 8. **Cuarta percepción (Después del cuarto movimiento del enemigo):**
    - Si no se pudo crear una "V" y la partida no está decidida, la IA juega para empatar.
+
+## Agente Racional
