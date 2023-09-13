@@ -25,6 +25,6 @@
 9. **Novena percepción:** 
    - Se mueven dos canibales a la derecha.
 10. **Decima percepción:**
-   - Se regresa un canibal a la izquierda.
+    - Se regresa un canibal a la izquierda.
 11. **Decimo primera percepción:** 
-   - Se mueven dos canibales a la derecha.
+    - Se mueven dos canibales a la derecha.
