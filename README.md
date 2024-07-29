@@ -4,4 +4,4 @@
 ### **No. Control:** 19121093
 ### **Materia:** Inteligencia Artificial
 ### **Grupo:** C
-### **Profesor:** Alcaraz Chavez Jesus Eduardo
+### **Profesor:** Jesus Eduardo Alcaraz Chavez 
